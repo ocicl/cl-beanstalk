@@ -1,0 +1,10 @@
+* cl-beanstalk
+
+Common Lisp implementation of the beanstalk protocol
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/antifuchs/cl-beanstalk.git   |
+| commit  | 2b7f02a  |
+| systems | cl-beanstalk |
+|---------+-------------------------------------------|
+
